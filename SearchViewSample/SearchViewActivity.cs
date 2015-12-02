@@ -3,7 +3,6 @@ using Android.App;
 using Android.Runtime;
 using Android.Support.V4.View;
 using Android.Support.V7.App;
-using Android.Support.V7.Widget;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
@@ -16,7 +15,7 @@ namespace SearchViewSample
         Theme = "@style/Theme.AppCompat.Light")]
     public class SearchViewActivity : ActionBarActivity
     {
-        private SearchView _searchView;
+        private Android.Support.V7.Widget.SearchView _searchView;
         private ListView _listView;
         private ChemicalsAdapter _adapter;
 
@@ -55,7 +54,7 @@ namespace SearchViewSample
             var item = menu.FindItem(Resource.Id.action_search);
 
             var searchView = MenuItemCompat.GetActionView(item);
-            _searchView = searchView.JavaCast<SearchView>();
+            _searchView = searchView.JavaCast<Android.Support.V7.Widget.SearchView>();
 
            // _searchView.QueryTextChange += (s, e) => _adapter.Filter.InvokeFilter(e.NewText);
 

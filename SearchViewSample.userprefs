@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="SearchViewSample/SearchViewSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.10.71.34.101:5555" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../Documents/PI1M_Dashboard.T1.13Nov2015.105613/PI1M_Dashboard.T1.Droid/MyShopActivities/Tab_1.cs" Line="335" Column="4" />
+      <File FileName="../../Documents/PI1M_Dashboard.T1.13Nov2015.105613/PI1M_Dashboard.T1.Droid/MyShopActivities/MainActivityDW.cs" Line="188" Column="30" />
+      <File FileName="SearchViewSample/SearchViewActivity.cs" Line="77" Column="28" />
+      <File FileName="../../Documents/PI1M_Dashboard.T1.13Nov2015.105613/PI1M_Dashboard.T1.Droid/Resources/menu/menu_myshop.xml" Line="6" Column="34" />
+      <File FileName="SearchViewSample/Webservice.cs" Line="15" Column="81" />
+      <File FileName="SearchViewSample/ChemicalsAdapter.cs" Line="60" Column="41" />
+      <File FileName="../../Documents/PI1M_Dashboard.T1.13Nov2015.105613/PI1M_Dashboard.T1.Droid/MyShopActivities/RecyclerViewAdapter.cs" Line="12" Column="25" />
+      <File FileName="SearchViewSample/RecyclerViewAdapter.cs" Line="19" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PI1M_Dashboard.T1" expanded="True">
+            <Node name="PI1M_Dashboard.T1.Droid" expanded="True">
+              <Node name="MyQuizActivities" expanded="True" />
+              <Node name="MyShopActivities" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="SearchViewSample" expanded="True">
+            <Node name="SearchViewSample" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+              <Node name="ComponentReferenceFolder" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
